@@ -23,7 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hang Hua"
   avatar           : "images/hang.jpg"
-  bio              : "PhD Candidate \n University of Rochester"
+  bio              : "PhD Candidate" 
+  bio2             : "University of Rochester"
   location         : "Rochester, NY"
   employer         :
   pubmed           : 
